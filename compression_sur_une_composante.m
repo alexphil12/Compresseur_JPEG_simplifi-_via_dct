@@ -3,7 +3,7 @@
 
 % fonction annexe TP Théorie de l'information
 
-%reprise du code sol_version1 en fonction puis appliqué sur chaques composantes
+%reprise du code compresseur_decompresseur_jpeg en fonction puis appliqué sur chaques composantes
 
 function [im_decompressee, len] = compression_sur_une_composante(image, fq)
 
